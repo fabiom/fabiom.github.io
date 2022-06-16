@@ -1,9 +1,10 @@
 ---
 layout: default
 title: IG/ 
+section: ig
 katex: true
 ---
 
-[[↑Information Geometry]](/information-geometry)
+{% include ig-back.html %}
 
 # To do

@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Information Geometry/ Exponential families
+section: ig
 katex: true
 ---
 
-[[↑Information Geometry]](/information-geometry)
+{% include ig-back.html %}
 
 # To do: Exponential families

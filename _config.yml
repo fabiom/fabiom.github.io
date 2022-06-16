@@ -5,7 +5,5 @@ markdown: kramdown
 nav:
   - name: "about"
     link: "/"
-  - name: "resume"
-    link: "/docs/resume.pdf"
   - name: "ig"
     link: "/information-geometry"

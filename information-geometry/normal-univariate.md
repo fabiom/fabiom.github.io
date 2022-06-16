@@ -1,10 +1,11 @@
 ---
 layout: default
 title: IG/ Normal family (univariate)
+section: ig
 katex: true
 ---
 
-[[↑Information Geometry]](/information-geometry)
+{% include ig-back.html %}
 
 # Normal family (univariate)
 

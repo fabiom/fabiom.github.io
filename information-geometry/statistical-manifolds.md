@@ -1,10 +1,11 @@
 ---
 layout: default
 title: IG/ Statistical manifolds
+section: ig
 katex: true
 ---
 
-[[↑Information Geometry]](/information-geometry)
+{% include ig-back.html %}
 
 # Statistical manifolds
 

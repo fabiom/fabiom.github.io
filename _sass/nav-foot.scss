@@ -24,6 +24,7 @@ nav {
             transition: .2s;
         }
     }
+    .active { color:#fff; }
 }
 
 footer {
@@ -31,4 +32,9 @@ footer {
     color: $footer-color;
     font-size: $footer-font-size;
     text-align: center;
+}
+
+.ig-back {
+    text-decoration: none;
+    &::before { content: "« "; }
 }

@@ -1,6 +1,7 @@
 ---
 layout: default
 name: about
+section: about
 ---
 
 {% include card.html %}
@@ -25,6 +26,7 @@ relevantes para aplicações em criptografia](docs/dissertacao.pdf)
 * (2016) [Uma Introdução à Teoria de Códigos](docs/divulgamat2016.pdf)
 
 ## Links
+* [CV](/docs/resume.pdf)
 * [ReseachGate](https://www.researchgate.net/profile/Fabio-C-C-Meneghetti)
 * [GitHub](https://github.com/fabiom)
 

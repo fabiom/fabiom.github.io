@@ -2,6 +2,7 @@
 layout: default
 title: Information Geometry
 description: A summary of information geometry.
+section: ig
 ---
 
 # Information Geometry

@@ -1,10 +1,11 @@
 ---
 layout: default
 title: IG/ Dually flat manifolds
+section: ig
 katex: true
 ---
 
-[[↑Information Geometry]](/information-geometry)
+{% include ig-back.html %}
 
 # Dually flat manifolds
 
