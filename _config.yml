@@ -1,0 +1,9 @@
+title: Fábio Meneghetti
+
+markdown: kramdown
+
+nav:
+  - name: "about"
+    link: "/"
+  - name: "resume"
+    link: "/docs/resume.pdf"

@@ -1,0 +1,67 @@
+nav {
+  display: block;
+  margin-top: 12px; }
+  nav ul {
+    margin: 0 auto;
+    padding: 0;
+    display: block;
+    list-style: none;
+    max-width: max-content; }
+  nav li {
+    display: inline-block; }
+  nav a {
+    padding: 12px;
+    color: #888;
+    text-decoration: none; }
+    nav a:hover {
+      color: #f2f2f2;
+      transition: .2s; }
+
+footer {
+  margin: 2em 0;
+  color: #888;
+  font-size: 10.8pt;
+  text-align: center; }
+
+body {
+  margin: 0;
+  background: #252728;
+  color: #f2f2f2;
+  font-family: Lora, Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-size: 104.1%;
+  line-height: 1.4; }
+
+.wrapper {
+  margin: 2.5rem auto;
+  padding: 0 15px;
+  max-width: 42rem; }
+  .wrapper li {
+    margin-bottom: 5px; }
+
+a {
+  color: palegreen; }
+
+code {
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace; }
+
+hr {
+  border-top: 0;
+  width: 95%; }
+
+.card > img {
+  float: right;
+  border-radius: 50%;
+  max-width: 30%;
+  margin: 2px 0 7px 7px; }
+.card svg {
+  fill: #f2f2f2;
+  width: 27px; }
+.card h1 {
+  font-size: 180%;
+  margin: 0; }
+.card ul {
+  margin: 5px 0;
+  padding: 0; }
+.card li {
+  list-style: none;
+  display: inline-block; }

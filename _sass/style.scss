@@ -1,0 +1,62 @@
+@import "vars";
+@import "fonts";
+@import "nav-foot";
+
+body{
+    margin: 0;
+    background: $background;
+    color: $color;
+    font-family: $font-serif;
+    font-size: $font-size;
+    line-height: 1.4;
+}
+
+.wrapper{
+    margin: 2.5rem auto;
+    padding: 0 $wrapper-padding;
+    max-width: $max-width;
+
+    li {
+        margin-bottom: 5px;
+    }
+}
+
+// Text elements
+
+a {
+    color: $link-color;
+}
+code {
+    font-family: $font-mono;
+}
+hr {
+    border-top: 0;
+    width: 95%;
+}
+
+
+// About page
+.card {
+    > img {
+        float: right;
+        border-radius: 50%;
+        max-width: 30%;
+        margin: 2px 0 7px 7px;
+    }
+    svg {
+        fill: $color;
+        width: 27px;
+    }
+    h1 {
+        font-size: 180%;
+        margin: 0;
+    }
+    ul {
+        margin: 5px 0;
+        padding: 0;
+    }
+    li {
+        list-style: none;
+        display: inline-block;
+    }
+}

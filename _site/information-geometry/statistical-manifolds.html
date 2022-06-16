@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Header -->
+<head>
+  <!-- Metadata -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="">
+  
+  <!-- Favicon -->
+  <link rel="icon" href="" type="image/ico"/>
+  <link rel="shortcut icon" href="" type="image/ico"/>
+
+  <!-- Title -->
+  <title>IG/ Statistical manifolds</title>
+  
+  <!-- CSS / SaSS -->
+  <link rel="stylesheet" href="/css/main.css">
+
+  <!-- Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href='https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap' rel='stylesheet'>
+
+  <!-- KaTeX -->
+
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.css" integrity="sha384-KiWOvVjnN8qwAZbuQyWDIbfCLFhLXNETzBQjA/92pIowpC0d2O3nppDGQVgwd2nB" crossorigin="anonymous">
+    <!-- The loading of KaTeX is deferred to speed up page rendering -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.js" integrity="sha384-0fdwu/T/EQMsQlrHCCHoH10pkPLlKA1jL5dFyUOvB3lfeT2540/2g6YgSi2BL14p" crossorigin="anonymous"></script>
+    <!-- To automatically render math in text elements, include the auto-render extension: -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+  
+
+</head>
+
+<body>
+
+<!-- Navigation bar -->
+<nav>
+    <ul>
+        
+        <li><a id="nav-about" href="/">about</a></li>
+        
+        <li><a id="nav-resume" href="/docs/resume.pdf">resume</a></li>
+        
+    </ul>
+</nav>
+
+    <div class="wrapper">
+        <p><a href="/information-geometry">[↑Information Geometry]</a></p>
+
+<h1 id="statistical-manifolds">Statistical manifolds</h1>
+
+<p>Let \((\mathcal X, \mathcal F)\) be a measure space with a \(\sigma\)-finite measure \(\mu\). \(L^1(\mu)\) denotes the Banach space of \(\mu\)-integrable functions, and</p>
+
+\[\mathcal P(\mathcal X) = \left\{ p \in L^1(\mu) \;\middle|\; p&gt;0, \int_{\mathcal{X}} p\, d\mu=1 \right\}\]
+
+<p>denotes the family of all densities of probability measures equivalent to \(\mu\) (note: \(\mathcal P(\mathcal X)\) is naturally a topological space with the induced \(L^1\) topology). The expectation of a function \(f\) with respect to some \(p\) is \(E_p [f] \coloneqq \int_{\mathcal X} f(x) p(x) d\mu(x)\), if it exists.</p>
+
+<p>A (regular) <strong>statistical model</strong> parametrized by some open set \(\Theta \subset \mathbb R^d\) is a subspace \(M \subset \mathcal P(\mathcal X)\) together with a homeomorphism \(\Theta \to M\) denoted by \(\theta \mapsto p_\theta\), that satisfies the following conditions:</p>
+
+<ol>
+  <li>for every \(x \in \mathcal X\), the map \(\theta \mapsto p_\theta(x)\) is \(C^{\infty}\),</li>
+  <li>let \(\ell_\theta(x) \coloneqq \log p_\theta(x)\) and \(\partial_i \coloneqq \frac{\partial}{\partial \theta_i}\). For every \(\theta \in \Theta\), the set of functions \(\left\{ \partial_i \ell_\theta : i \in \{1,\dots,d\} \right\}\) is linearly independent,</li>
+  <li>all partial derivatives of \(p_\theta\) and \(\ell_\theta\) commute with integrals, and</li>
+  <li>all moments \(E_\theta[\partial_{i_1} \ell_\theta \dots \partial_{i_n} \ell_\theta ]\) exist.</li>
+</ol>
+
+<p>If, furthermore, \(M\) has the structure of a \(C^\infty\) manifold completely parametrized by \(\theta\), then \(M\) is said to be a <strong>statistical manifold</strong>.</p>
+
+<h2 id="examples">Examples</h2>
+
+<ul>
+  <li><a href="/information-geometry/exponential-families.html">Exponential families</a></li>
+  <li><a href="/information-geometry/mixture-families.html">Mixture families</a></li>
+</ul>
+
+    </div>
+</body>
+
+<!-- Footer -->
+<footer>Copyright © Fábio Meneghetti (2022)</footer>
