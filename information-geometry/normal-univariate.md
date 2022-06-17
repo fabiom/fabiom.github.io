@@ -100,5 +100,5 @@ $$(\tilde\mu, \tilde\sigma) \cdot (\mu, \sigma) = (\tilde\sigma \mu + \tilde\mu,
 
 ### Sources
 1. S. I.R. Costa, S. A. Santos, J. E. Strapasson. [*Fisher information distance: A geometrical reading*](https://www.sciencedirect.com/science/article/pii/S0166218X14004211)
-2. S. Amari, H. Nagoka — [*Methods of Information Geometry*](https://books.google.com.br/books/about/Methods_of_Information_Geometry.html?id=vc2FWSo7wLUC)
+2. S. Amari, H. Nagoka. [*Methods of Information Geometry*](https://books.google.com.br/books/about/Methods_of_Information_Geometry.html?id=vc2FWSo7wLUC)
 3. O. Calin, C. Udrişte. [*Geometric Modeling in Probability and Statistics*](https://www.springer.com/gp/book/9783319077789)
