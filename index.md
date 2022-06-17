@@ -27,7 +27,7 @@ relevantes para aplicações em criptografia](docs/dissertacao.pdf)
 
 ## Links
 * [CV](/docs/resume.pdf)
-* [ReseachGate](https://www.researchgate.net/profile/Fabio-C-C-Meneghetti)
+* [ResearchGate](https://www.researchgate.net/profile/Fabio-C-C-Meneghetti)
 * [GitHub](https://github.com/fabiom)
 
 ## Contact
