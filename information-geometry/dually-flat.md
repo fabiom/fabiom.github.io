@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: ig
 title: IG/ Dually flat manifolds
 section: ig
 katex: true
 ---
-
-{% include ig-back.html %}
 
 # Dually flat manifolds
 

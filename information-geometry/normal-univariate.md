@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: ig
 title: IG/ Normal family (univariate)
 section: ig
 katex: true
 ---
-
-{% include ig-back.html %}
 
 # Normal family (univariate)
 
@@ -23,26 +21,22 @@ $$G(\mu,\sigma) = \begin{bmatrix} \frac{1}{\sigma^2} & 0 \\ 0 & \frac{2}{\sigma^
 
 - **$$\alpha$$-Christoffel symbols:**
 
-$$\begin{align*}
-&\Gamma_{11}^{2\, (\alpha)} = \frac{1-\alpha}{2\sigma},
-&\Gamma_{12}^{1\, (\alpha)} = \Gamma_{21}^{1\, (\alpha)} = \frac{1+\alpha}{\sigma},\\
-&\Gamma_{22}^{2\, (\alpha)} = -\frac{1+2\alpha}{\sigma},
-\end{align*}
-$$
+    $$\begin{align*}
+    &\Gamma_{11}^{2\, (\alpha)} = \frac{1-\alpha}{2\sigma},\quad
+    \Gamma_{12}^{1\, (\alpha)} = \Gamma_{21}^{1\, (\alpha)} = \frac{1+\alpha}{\sigma},\quad
+    \Gamma_{22}^{2\, (\alpha)} = -\frac{1+2\alpha}{\sigma},\\
+    &\Gamma_{11}^{1\, (\alpha)} = \Gamma_{12}^{2\, (\alpha)} = \Gamma_{21}^{2\, (\alpha)} = \Gamma_{22}^{1\, (\alpha)} = 0.
+    \end{align*}$$
 
-all others vanish.
 - **$$\alpha$$-curvature:** constant, $$\kappa = -\frac{1}{2}(1 - \alpha^2)\;$$ (<a href="/information-geometry/dually-flat.html">dually flat</a> for $$\alpha= \pm 1$$)
 - **Fisher-Rao distance:**
     - Fixed mean: $$d ( (\mu, \sigma_1), (\mu, \sigma_2) ) = \sqrt{2} \left\vert\log\frac{\sigma_2}{\sigma_1}\right\vert$$
-    - Fixed variance:
-
-    $$
-    d ( (\mu_1, \sigma), (\mu_2, \sigma) )
+    - Fixed variance: $$d ( (\mu_1, \sigma), (\mu_2, \sigma) )
     =
     \sqrt{2} \log \frac{
         4 \sigma^2 + (\mu_1 - \mu_2)^2 + |\mu_1 - \mu_2| \sqrt{8\sigma^2 + (\mu_1-\mu_2)^2}
-    }{4\sigma^2}.
-    $$
+    }{4\sigma^2}
+    $$.
 
     - General:
 

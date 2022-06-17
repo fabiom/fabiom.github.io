@@ -102,6 +102,9 @@ body {
   .wrapper li {
     margin-bottom: 5px; }
 
+.ig-wrapper {
+  max-width: 50rem; }
+
 a {
   color: palegreen; }
 

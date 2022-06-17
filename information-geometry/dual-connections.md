@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: ig
 title: IG/ Dual connections
 section: ig
 katex: true
 ---
-
-{% include ig-back.html %}
 
 # Dual connections
 

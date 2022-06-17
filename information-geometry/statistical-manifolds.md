@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: ig
 title: IG/ Statistical manifolds
 section: ig
 katex: true
 ---
-
-{% include ig-back.html %}
 
 # Statistical manifolds
 

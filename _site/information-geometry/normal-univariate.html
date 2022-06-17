@@ -45,10 +45,11 @@
     </ul>
 </nav>
 
-<div class="wrapper">
-        <p><a class="ig-back" href="/information-geometry">Information Geometry</a></p>
-
-<h1 id="normal-family-univariate">Normal family (univariate)</h1>
+<!-- Content -->
+<div class="wrapper ig-wrapper">
+    <!-- Back button -->
+	<a class="ig-back" href="/information-geometry">Information Geometry</a>
+    <h1 id="normal-family-univariate">Normal family (univariate)</h1>
 
 <ul>
   <li><strong>Probability density:</strong></li>
@@ -68,31 +69,27 @@
 \[G(\mu,\sigma) = \begin{bmatrix} \frac{1}{\sigma^2} &amp; 0 \\ 0 &amp; \frac{2}{\sigma^2} \end{bmatrix}\]
 
 <ul>
-  <li><strong>\(\alpha\)-Christoffel symbols:</strong></li>
-</ul>
+  <li>
+    <p><strong>\(\alpha\)-Christoffel symbols:</strong></p>
 
 \[\begin{align*}
-&amp;\Gamma_{11}^{2\, (\alpha)} = \frac{1-\alpha}{2\sigma},
-&amp;\Gamma_{12}^{1\, (\alpha)} = \Gamma_{21}^{1\, (\alpha)} = \frac{1+\alpha}{\sigma},\\
-&amp;\Gamma_{22}^{2\, (\alpha)} = -\frac{1+2\alpha}{\sigma},
-\end{align*}\]
-
-<p>all others vanish.</p>
-<ul>
+  &amp;\Gamma_{11}^{2\, (\alpha)} = \frac{1-\alpha}{2\sigma},\quad
+  \Gamma_{12}^{1\, (\alpha)} = \Gamma_{21}^{1\, (\alpha)} = \frac{1+\alpha}{\sigma},\quad
+  \Gamma_{22}^{2\, (\alpha)} = -\frac{1+2\alpha}{\sigma},\\
+  &amp;\Gamma_{11}^{1\, (\alpha)} = \Gamma_{12}^{2\, (\alpha)} = \Gamma_{21}^{2\, (\alpha)} = \Gamma_{22}^{1\, (\alpha)} = 0.
+  \end{align*}\]
+  </li>
   <li><strong>\(\alpha\)-curvature:</strong> constant, \(\kappa = -\frac{1}{2}(1 - \alpha^2)\;\) (<a href="/information-geometry/dually-flat.html">dually flat</a> for \(\alpha= \pm 1\))</li>
   <li><strong>Fisher-Rao distance:</strong>
     <ul>
       <li>Fixed mean: \(d ( (\mu, \sigma_1), (\mu, \sigma_2) ) = \sqrt{2} \left\vert\log\frac{\sigma_2}{\sigma_1}\right\vert\)</li>
-      <li>Fixed variance:</li>
-    </ul>
-
-\[d ( (\mu_1, \sigma), (\mu_2, \sigma) )
+      <li>
+        <p>Fixed variance: \(d ( (\mu_1, \sigma), (\mu_2, \sigma) )
   =
   \sqrt{2} \log \frac{
-      4 \sigma^2 + (\mu_1 - \mu_2)^2 + |\mu_1 - \mu_2| \sqrt{8\sigma^2 + (\mu_1-\mu_2)^2}
-  }{4\sigma^2}.\]
-
-    <ul>
+  4 \sigma^2 + (\mu_1 - \mu_2)^2 + |\mu_1 - \mu_2| \sqrt{8\sigma^2 + (\mu_1-\mu_2)^2}
+  }{4\sigma^2}\).</p>
+      </li>
       <li>General:</li>
     </ul>
 
@@ -167,7 +164,7 @@
   <li>O. Calin, C. Udrişte. <a href="https://www.springer.com/gp/book/9783319077789"><em>Geometric Modeling in Probability and Statistics</em></a></li>
 </ol>
 
-    </div>
+</div>
 </body>
 
 <!-- Footer -->
