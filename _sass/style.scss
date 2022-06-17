@@ -46,7 +46,9 @@ hr {
     }
     svg {
         fill: $color;
+        height: 27px;
         width: 27px;
+        padding: 6px;
     }
     h1 {
         font-size: 180%;
@@ -56,7 +58,7 @@ hr {
         margin: 5px 0;
         padding: 0;
     }
-    li {
+    ul > li {
         list-style: none;
         display: inline-block;
     }

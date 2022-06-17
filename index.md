@@ -25,11 +25,6 @@ relevantes para aplicações em criptografia](docs/dissertacao.pdf)
 * (2016) [Curso de LaTeX](/curso-LaTeX-camecc)
 * (2016) [Uma Introdução à Teoria de Códigos](docs/divulgamat2016.pdf)
 
-## Links
-* [CV](/docs/resume.pdf)
-* [ResearchGate](https://www.researchgate.net/profile/Fabio-C-C-Meneghetti)
-* [GitHub](https://github.com/fabiom)
-
 ## Contact
 * Email: `contact@fabiom.net`
 * Telegram: [@fabiom](https://t.me/fabiom)
