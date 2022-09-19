@@ -1,12 +1,14 @@
 ---
 layout: default
-name: etc
+title: etc
 section: etc
 ---
 
-# /etc
+# Et cetera
 
-## some tools I like
+## Some tools I like
+
+I try to use softwares which are mainly free/open source, and respectful to the user's privacy.
 
 - Search engine: [DuckDuckGo](https://duckduckgo.com), [Ecosia](https://www.ecosia.org)
 - Email: [ProtonMail](https://proton.me)
@@ -20,3 +22,10 @@ section: etc
 - OS: [Pop!\_OS](https://pop.system76.com/), [LineageOS](https://lineageos.org/)
 - Blogging: [Mataroa](https://mataroa.blog)
 - LaTeX: [Overleaf](https://www.overleaf.com/), [Setzer](https://www.cvfosammmm.org/setzer/)
+
+## Hobbies
+
+- Table tennis
+- Retro video games
+- Running and brisk walking
+- Tinkering with Linux

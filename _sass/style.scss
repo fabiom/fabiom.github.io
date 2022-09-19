@@ -36,6 +36,9 @@ hr {
 }
 
 
+// Headers
+h1 { font-size: $h1-font-size }
+
 // About page
 .card {
     > img {
@@ -44,22 +47,23 @@ hr {
         max-width: 30%;
         margin: 2px 0 7px 7px;
     }
-    svg {
-        fill: $color;
-        height: 27px;
-        width: 27px;
-        padding: 6px;
-    }
     h1 {
         font-size: 180%;
         margin: 0;
     }
-    ul {
-        margin: 5px 0;
-        padding: 0;
-    }
-    ul > li {
+}
+
+.home-links {
+//    margin: 5px 0;
+    padding-left: 15pt;
+    > li {
         list-style: none;
-        display: inline-block;
+//        display: inline-block;
+    }
+    svg {
+        fill: $color;
+        height: 24px;
+        width: 30px;
+        padding: 0 6px;
     }
 }
