@@ -6,6 +6,8 @@ section: research
 
 # Research
 
+---
+
 ## Interests
 
 - [Information geometry](/information-geometry), Fisher information metric, geometric theory of statistical models
@@ -13,14 +15,21 @@ section: research
 - Lattices (discrete additive subgroups of the Eucliedean space), and applications to information sciences
 - Applications of information geometry and information theory to statistical learning
 
+---
+
 ## Publications
 
+- (2022) F. C. C. Meneghetti, H. K. Miyamoto, S. I. R. Costa — *Information Properties of a Random Variable Decomposition through Lattices*, to appear in the Proceedings of the 41st International Conference on Bayesian and Maximum Entropy Methods in Science and Engineering (MaxEnt 2022)
 - (2020 --- Master's Dissertation) [Reticulados: um estudo de alguns parâmetros
 relevantes para aplicações em criptografia](docs/dissertacao.pdf)
+
+---
 
 ## Texts
 
 - (2021) [An introduction to code-based cryptography](docs/code-based-cripto.pdf)
+
+---
 
 ## Presentations
 
