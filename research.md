@@ -6,16 +6,13 @@ section: research
 
 # Research
 
----
-
 ## Interests
 
 - [Information geometry](/information-geometry), Fisher information metric, geometric theory of statistical models
 - Divergence measures and distances between probability measures
 - Lattices (discrete additive subgroups of the Eucliedean space), and applications to information sciences
 - Applications of information geometry and information theory to statistical learning
-
----
+<br>
 
 ## Publications
 
@@ -23,13 +20,9 @@ section: research
 - (2020 --- Master's Dissertation) [Reticulados: um estudo de alguns parâmetros
 relevantes para aplicações em criptografia](docs/dissertacao.pdf)
 
----
-
 ## Texts
 
 - (2021) [An introduction to code-based cryptography](docs/code-based-cripto.pdf)
-
----
 
 ## Presentations
 

@@ -32,13 +32,16 @@ code {
 }
 hr {
     border-top: 0;
-    color: #515151;
+    border-color: #515151;
     margin-top: 1.5em;
 }
 
 
 // Headers
-h1 { font-size: $h1-font-size }
+h1,h2,h3,h4 {
+  font-family: $font-sans;
+  margin-top: 1.2em;
+}
 
 // About page
 .card {
@@ -52,10 +55,15 @@ h1 { font-size: $h1-font-size }
         font-size: 180%;
         margin: 0;
     }
+    .name-description {
+	font-size: 95%;
+	font-family: $font-mono;
+    }
 }
 
 .home-links {
 //    margin: 5px 0;
+    font-family: $font-mono;
     padding-left: 15pt;
     > li {
         list-style: none;
