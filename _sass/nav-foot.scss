@@ -1,8 +1,7 @@
 nav {
     display: block;
     font-family: $font-mono;
-    font-variant: small-caps;
-    font-size: 1.1em;
+    font-size: $nav-font-size;
     margin-top: $nav-button-padding;
 
     ul {

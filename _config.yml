@@ -4,9 +4,9 @@ favicon_location: /icon/favicon.png
 markdown: kramdown
 
 nav:
-  - name: "about"
+  - name: "ABOUT"
     link: "/"
-  - name: "research"
+  - name: "RESEARCH"
     link: "/research"
-  - name: "etc"
+  - name: "ETC"
     link: "/etc"

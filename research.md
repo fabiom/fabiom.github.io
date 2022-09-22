@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-section: research
+section: RESEARCH
 ---
 
 # Research

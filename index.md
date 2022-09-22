@@ -1,7 +1,7 @@
 ---
 layout: default
 name: about
-section: about
+section: ABOUT
 ---
 
 {% include card.html %}
