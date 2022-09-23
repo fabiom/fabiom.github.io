@@ -2,8 +2,8 @@ nav {
     display: block;
     font-family: $font-mono;
     font-size: $nav-font-size;
-    margin-top: $nav-button-padding;
-
+    padding: 11px 0 10px 0;
+    background: $darker-background;
     ul {
         margin: 0 auto;
         padding: 0;
@@ -32,6 +32,7 @@ footer {
     margin: 2em 0;
     color: $footer-color;
     font-size: $footer-font-size;
+    font-family: $font-mono;
     text-align: center;
 }
 
