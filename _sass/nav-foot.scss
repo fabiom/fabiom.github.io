@@ -1,11 +1,15 @@
 nav {
     display: block;
-    font-family: $font-mono;
     font-size: $nav-font-size;
     font-weight: 600;
     padding: $nav-button-padding 0;
     background: $darker-background;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
     ul {
+        font-family: $font-mono;
         margin: 0 auto;
         padding: 0;
         display: block;
