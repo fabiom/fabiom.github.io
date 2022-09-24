@@ -2,8 +2,10 @@ nav {
     display: block;
     font-family: $font-mono;
     font-size: $nav-font-size;
-    padding: 11px 0 10px 0;
+    font-weight: 600;
+    padding: $nav-button-padding 0;
     background: $darker-background;
+    border-bottom: 1px solid #666666;
     ul {
         margin: 0 auto;
         padding: 0;
@@ -17,7 +19,7 @@ nav {
     }
 
     a {
-        padding: $nav-button-padding;
+        padding: $nav-button-padding 10px;
         color: $footer-color;
         text-decoration: none;
         &:hover {
