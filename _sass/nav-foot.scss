@@ -5,13 +5,12 @@ nav {
     font-weight: 600;
     padding: $nav-button-padding 0;
     background: $darker-background;
-    border-bottom: 1px solid #666666;
     ul {
         margin: 0 auto;
         padding: 0;
         display: block;
         list-style: none;
-        max-width: max-content;
+        max-width: $max-width;
     }
     
     li {
@@ -27,7 +26,11 @@ nav {
             transition: .2s;
         }
     }
-    .active { color:#fff; }
+    .active {
+        color:#fff;
+	border-bottom: 3px solid;
+        padding-bottom: 13px;
+    }
 }
 
 footer {
