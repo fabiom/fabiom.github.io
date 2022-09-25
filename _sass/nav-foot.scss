@@ -2,11 +2,29 @@ nav {
     display: block;
     font-size: $nav-font-size;
     font-weight: 600;
-    padding: $nav-button-padding 0;
+    padding: $nav-button-padding 0 0;
     background: $darker-background;
-    position: fixed;
-    top: 0;
-    width: 100%;
+
+    .title {
+	display: block;
+        max-width: $max-width;
+	margin: 1em auto 1.5em;
+
+	h1 {
+            font-size: 180%;
+            margin: 0;
+	    a {
+		color: $color;
+		text-decoration: none;
+	    }
+	}
+
+	.name-description {
+	    font-size: 95%;
+	    font-family: $font-mono;
+	}
+
+    }
 
     ul {
         font-family: $font-mono;
@@ -15,19 +33,18 @@ nav {
         display: block;
         list-style: none;
         max-width: $max-width;
-    }
-    
-    li {
-        display: inline-block;
-    }
-
-    a {
-        padding: $nav-button-padding 10px;
-        color: $footer-color;
-        text-decoration: none;
-        &:hover {
-            color: $color;
-            transition: .2s;
+        li {
+            display: inline-block;
+            a {
+		display: block;
+                padding: $nav-button-padding 10px;
+                color: $footer-color;
+                text-decoration: none;
+                &:hover {
+                    color: $color;
+                    transition: .2s;
+                }
+            }
         }
     }
     .active {

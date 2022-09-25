@@ -12,7 +12,7 @@ body{
 }
 
 .wrapper{
-    margin: 6rem auto;
+    margin: 2em auto;
     padding: 0 $wrapper-padding;
     max-width: $max-width;
 
@@ -53,14 +53,6 @@ h2,h3,h4 {
         border-radius: 50%;
         max-width: 30%;
         margin: 2px 0 7px 7px;
-    }
-    h1 {
-        font-size: 180%;
-        margin: 0;
-    }
-    .name-description {
-	font-size: 95%;
-	font-family: $font-mono;
     }
 }
 
