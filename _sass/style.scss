@@ -56,17 +56,23 @@ h2,h3,h4 {
 }
 
 .home-links {
-//    margin: 5px 0;
-    font-family: $font-mono;
-    padding-left: 15pt;
+    padding: 0;
+    font-family: $font-serif;
     > li {
+	line-height: 1.2em;
+        text-align: center;
+	vertical-align: top;
         list-style: none;
-//        display: inline-block;
+	width: 60pt;
+        display: inline-block;
+	padding-right: 0.2em;
     }
     svg {
-        fill: $color;
-        height: 24px;
-        width: 30px;
+	display: block;
+	fill: $link-color;
+	margin: 0 auto;
+        height: 40px;
+        width: 40px;
         padding: 0 6px;
     }
 }
