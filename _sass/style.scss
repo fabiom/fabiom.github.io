@@ -41,10 +41,10 @@ hr {
 h1,h2,h3,h4 {
   font-family: $font-sans;
 }
-h2,h3,h4 {
+h2 {
   border-bottom: 1px solid $footer-color;
-  margin-top: 1.5em;
 }
+h2,h3,h4{ margin-top: 1.2em; }
 
 // About page
 .card {
@@ -59,13 +59,17 @@ h2,h3,h4 {
     padding: 0;
     font-family: $font-serif;
     > li {
-	line-height: 1.2em;
         text-align: center;
 	vertical-align: top;
         list-style: none;
-	width: 60pt;
         display: inline-block;
-	padding-right: 0.2em;
+	margin: 0 .4em .6em 0;
+	a {
+	    display: block;
+	    width: 80px;
+	    height: 80px;
+	    line-height: 1.2em;
+	}
     }
     svg {
 	display: block;
