@@ -6,7 +6,9 @@ section: ABOUT
 
 ## About me
 
-{% include card.html %}
+<div class="card">
+  <img src="dithered-me.png">
+</div>
 
 Hey there! I am PhD student at the Institute of Mathematics, Statistics and Scientific Computing, at the University of Campinas (Brazil).
 
