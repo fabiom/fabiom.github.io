@@ -10,7 +10,7 @@ section: ABOUT
   <img src="dithered-me.png">
 </div>
 
-Hey there! I am PhD student at the Institute of Mathematics, Statistics and Scientific Computing, at the University of Campinas (Brazil).
+Hey there! I am a PhD student at the Institute of Mathematics, Statistics and Scientific Computing, at the University of Campinas (Brazil).
 
 My area of study is at the intersection of geometry and information theory, advised by Prof. Sueli I. R. Costa. Check out some of my [research](/research).
 
