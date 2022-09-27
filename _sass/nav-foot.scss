@@ -4,7 +4,6 @@ nav {
     font-weight: 600;
     padding: $nav-button-padding 0 0;
     background: $darker-background;
-    border-bottom: 1px solid #444;
 
     .title {
 	display: block;
@@ -53,6 +52,10 @@ nav {
         color:#fff;
 	border-bottom: 3px solid;
         padding-bottom: 13px;
+    }
+
+    hr {
+	margin: 0;
     }
 }
 
