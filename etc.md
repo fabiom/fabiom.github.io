@@ -29,3 +29,13 @@ I try to use softwares which are mainly free/open source, and respectful to the 
 - Retro video games
 - Running and brisk walking
 - Tinkering with Linux
+
+## Friends with webpages
+
+- [Caio Volpato](http://caioau.net/)
+- [Henrique Miyamoto](https://miyamotohk.github.io/)
+- [Luiz Lara](http://www.ime.unicamp.br/~ra264986/)
+- [Renato Leme](https://renatoleme.github.io/)
+- [Tomás Silva](https://www.ime.unicamp.br/~tomas/)
+- [Pedro Mattos](http://www.ime.unicamp.br/~ra156976/)
+- [Letícia Magalhães](https://www.leticiamagalhaes.science/)

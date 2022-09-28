@@ -19,7 +19,7 @@ My area of study is at the intersection of geometry and information theory, advi
 <ul>
   <li><a href="/docs/resume.pdf">Resume</a></li>
   <li><a href="http://lattes.cnpq.br/5029099102514492">CV Lattes</a></li>
-  <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">Research Gate</a></li>
+  <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">ResearchGate</a></li>
   <li><a href="https://github.com/fabiom">GitHub</a></li>
 </ul>
 
