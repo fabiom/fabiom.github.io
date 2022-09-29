@@ -8,15 +8,18 @@ section: RESEARCH
 
 ## Interests
 
-- [Information geometry](/information-geometry), Fisher information metric, geometric theory of statistical models
-- Divergence measures and distances between probability measures
-- Lattices (discrete additive subgroups of the Eucliedean space), and applications to information sciences
-- Applications of information geometry and information theory to statistical learning
-<br>
+My interests lie around the following areas:
+
+- [Information geometry](/information-geometry) and statistical manifolds
+- Measures of information and divergence
+- Lattices and applications to information sciences
+
+Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), these correspond roughly to {`94A17`, `53B12`, `94A15`}.
 
 ## Publications
 
-- (2022) F. C. C. Meneghetti, H. K. Miyamoto, S. I. R. Costa — *Information Properties of a Random Variable Decomposition through Lattices*, to appear in the Proceedings of the 41st International Conference on Bayesian and Maximum Entropy Methods in Science and Engineering (MaxEnt 2022)
+- (2023) H. K. Miyamoto, F. C. C. Meneghetti, S. I. R. Costa — *The Fisher-Rao Loss for Learning under Label Noise*, submitted to Information Geometry
+- (2022) F. C. C. Meneghetti, H. K. Miyamoto, S. I. R. Costa — ***Information Properties of a Random Variable Decomposition through Lattices***, to appear in the Proceedings of MaxEnt 2022
 - (2020 --- Master's Dissertation) [Reticulados: um estudo de alguns parâmetros
 relevantes para aplicações em criptografia](docs/dissertacao.pdf)
 

@@ -32,6 +32,8 @@ I try to use softwares which are mainly free/open source, and respectful to the 
 
 ## Friends with webpages
 
+Check out their sites too!
+
 - [Caio Volpato](http://caioau.net/)
 - [Henrique Miyamoto](https://miyamotohk.github.io/)
 - [Luiz Lara](http://www.ime.unicamp.br/~ra264986/)
@@ -39,3 +41,4 @@ I try to use softwares which are mainly free/open source, and respectful to the 
 - [Tomás Silva](https://www.ime.unicamp.br/~tomas/)
 - [Pedro Mattos](http://www.ime.unicamp.br/~ra156976/)
 - [Letícia Magalhães](https://www.leticiamagalhaes.science/)
+- [Rafael Gonçalves](https://rafaelg.net.br)
