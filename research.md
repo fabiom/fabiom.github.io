@@ -31,12 +31,12 @@ relevantes para aplicações em criptografia](docs/dissertacao.pdf)
 
 - (2022) [Conexões duais](docs/conexoes-duais-2022.pdf)
 - (2022) [Enrolamento e quantização de distribuições de probabilidade por reticulados](docs/enrolamento-quantizacao-2022.pdf)
-- (2022 — Samati @UFSC) [Geometria da informação e algumas de suas aplicações](docs/geoinfo-ufsc-2022.pdf)
+- (2022) [Geometria da informação e algumas de suas aplicações](docs/geoinfo-ufsc-2022.pdf) — Samati @UFSC
 - (2022) [Parâmetros de reticulados e criptografia](docs/crypto-lattice-2022.pdf)
 - (2022) [Métodos geométricos aplicados a ciências da informação](docs/quali-doutorado.pdf)
 - (2021) [Uma Introdução a Geometria da Informação](docs/info-geometry2021.pdf)
 - (2020) [Reticulados: um estudo de parâmetros relevantes para aplicações em criptografia](docs/defesa-mestrado.pdf)
 - (2019) [Usando GAP para trabalhar com códigos](docs/gap-2019.pdf)
-- (2019 — CNMAC) [Reticulados e Aplicações em Criptografia](docs/cnmac-2019-poster.pdf) (Poster)
+- (2019) [Reticulados e Aplicações em Criptografia](docs/cnmac-2019-poster.pdf) — Poster, CNMAC @UFU
 - (2016) [Curso de LaTeX](/curso-LaTeX-camecc)
 - (2016) [Uma Introdução à Teoria de Códigos](docs/divulgamat2016.pdf)
