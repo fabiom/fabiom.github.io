@@ -6,6 +6,8 @@ section: RESEARCH
 
 # Research
 
+I'm currently enrolled in a PhD in Mathematics program at IMECC/Unicamp, advised by Prof. Sueli I. R. Costa.
+
 ## Interests
 
 My interests lie around the following areas:
