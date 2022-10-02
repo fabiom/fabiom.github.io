@@ -1,6 +1,7 @@
 ---
 layout: default
 name: about
+title:
 section: ABOUT
 ---
 
