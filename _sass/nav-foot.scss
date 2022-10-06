@@ -1,6 +1,5 @@
 nav {
     display: block;
-    font-size: $nav-font-size;
     font-weight: 600;
     padding: $nav-button-padding 0 0;
     background: $darker-background;
@@ -28,6 +27,7 @@ nav {
     }
 
     ul {
+        font-size: $nav-font-size;
         font-family: $font-mono;
         margin: 0 auto;
         padding: 0;

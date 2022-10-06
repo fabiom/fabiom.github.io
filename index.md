@@ -5,15 +5,14 @@ title:
 section: ABOUT
 ---
 
-## About me
+# About me
 
 <div class="card">
   <img src="me.png">
 </div>
 
-Hey there! I am a PhD student at the University of Campinas (IMECC/Unicamp, Brazil).
+Hey there! I am a PhD student at the University of Campinas (IMECC/Unicamp, Brazil). My areas of main interest are at the intersection of geometry and information theory. Check out some of my [research](/research).
 
-My areas of main interest are at the intersection of geometry and information theory. Check out some of my [research](/research).
 
 ## Links
 
