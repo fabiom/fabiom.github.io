@@ -36,9 +36,10 @@ nav {
         max-width: $max-width;
         li {
             display: inline-block;
+	    padding: 5px 0;
             a {
 		display: block;
-                padding: $nav-button-padding 10px;
+                padding: 10px 10px;
                 color: $footer-color;
                 text-decoration: none;
                 &:hover {
@@ -49,9 +50,13 @@ nav {
         }
     }
     .active {
-        color:#fff;
-	border-bottom: 4px solid;
-        padding-bottom: 11px;
+	background: $color;
+        color: $darker-background;
+	border-radius: 10px;
+	padding: 7px 10px;
+	&:hover {
+	    color: $darker-background;
+	}
     }
 
     hr {
