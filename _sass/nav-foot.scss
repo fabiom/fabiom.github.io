@@ -36,10 +36,10 @@ nav {
         max-width: $max-width;
         li {
             display: inline-block;
-	    padding: 5px 0;
+	    padding: 7px 0;
             a {
 		display: block;
-                padding: 10px 10px;
+                padding: 7px 10px;
                 color: $footer-color;
                 text-decoration: none;
                 &:hover {
@@ -53,7 +53,6 @@ nav {
 	background: $color;
         color: $darker-background;
 	border-radius: 10px;
-	padding: 7px 10px;
 	&:hover {
 	    color: $darker-background;
 	}
