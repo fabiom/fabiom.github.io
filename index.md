@@ -11,7 +11,9 @@ section: ABOUT
 
 # About me
 
-Hey there! I am a PhD student at the University of Campinas (IMECC/Unicamp, Brazil). My areas of main interest are at the intersection of geometry and information theory. Check out some of my [research](/research).
+Hey there! I am a PhD student at the University of Campinas ([IMECC](https://www.ime.unicamp.br/)/[Unicamp](https://www.unicamp.br/)), Brazil.
+
+Currently my areas of main interest are at the intersection of geometry and information theory, such as, but not limited to: measures of information, information geometry, lattices in information theory. Previously, I worked in applications of lattices to cryptography. Check out some of my [research](/research)!
 
 
 ## Links
