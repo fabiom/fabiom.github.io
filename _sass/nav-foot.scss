@@ -2,7 +2,6 @@ nav {
     display: block;
     font-weight: 600;
     padding: $nav-button-padding 0 0;
-    background: $darker-background;
 
     .title {
 	display: block;
@@ -20,14 +19,14 @@ nav {
 	}
 
 	.name-description {
-	    font-size: 95%;
+	    font-size: 90%;
 	    font-family: $font-mono;
 	}
 
     }
 
     ul {
-        font-size: $nav-font-size;
+        font-size: 90%;
         font-family: $font-mono;
         margin: 0 auto;
         padding: 0 10px;
@@ -39,23 +38,12 @@ nav {
 	    padding: 7px 0;
             a {
 		display: block;
-                padding: 7px 10px;
-                color: $footer-color;
-                text-decoration: none;
-                &:hover {
-                    color: $color;
-                    transition: .2s;
-                }
+                padding: 8px;
             }
         }
     }
     .active {
-	background: $color;
-        color: $darker-background;
-	border-radius: 10px;
-	&:hover {
-	    color: $darker-background;
-	}
+        color: $color;
     }
 
     hr {
