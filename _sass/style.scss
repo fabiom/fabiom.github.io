@@ -23,6 +23,9 @@ body{
 
 // Text elements
 
+p {
+    font-size: 1.04em;
+}
 a {
     color: $link-color;
 }
@@ -37,7 +40,7 @@ hr {
 
 // Headers
 h1,h2,h3,h4 {
-  font-family: $font-sans;
+  font-family: $font-mono;
 }
 h2 {
   border-bottom: 1px solid $footer-color;

@@ -1,205 +1,165 @@
-/* lora-regular - latin */
+/* ibm-plex-mono-regular - latin */
 @font-face {
-  font-family: 'Lora';
+  font-family: 'IBM Plex Mono';
   font-style: normal;
   font-weight: 400;
   src: local(''),
-       url('/fonts/Lora/lora-v25-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Lora/lora-v25-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* lora-500 - latin */
+/* ibm-plex-mono-italic - latin */
 @font-face {
-  font-family: 'Lora';
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''),
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* ibm-plex-mono-500 - latin */
+@font-face {
+  font-family: 'IBM Plex Mono';
   font-style: normal;
   font-weight: 500;
   src: local(''),
-       url('/fonts/Lora/lora-v25-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Lora/lora-v25-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* lora-600 - latin */
+/* ibm-plex-mono-500italic - latin */
 @font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 600;
-  src: local(''),
-       url('/fonts/Lora/lora-v25-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Lora/lora-v25-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* lora-700 - latin */
-@font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 700;
-  src: local(''),
-       url('/fonts/Lora/lora-v25-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Lora/lora-v25-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* lora-italic - latin */
-@font-face {
-  font-family: 'Lora';
-  font-style: italic;
-  font-weight: 400;
-  src: local(''),
-       url('/fonts/Lora/lora-v25-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Lora/lora-v25-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* lora-500italic - latin */
-@font-face {
-  font-family: 'Lora';
+  font-family: 'IBM Plex Mono';
   font-style: italic;
   font-weight: 500;
   src: local(''),
-       url('/fonts/Lora/lora-v25-latin-500italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Lora/lora-v25-latin-500italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-500italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-500italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* lora-600italic - latin */
+/* ibm-plex-mono-600 - latin */
 @font-face {
-  font-family: 'Lora';
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''),
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* ibm-plex-mono-600italic - latin */
+@font-face {
+  font-family: 'IBM Plex Mono';
   font-style: italic;
   font-weight: 600;
   src: local(''),
-       url('/fonts/Lora/lora-v25-latin-600italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Lora/lora-v25-latin-600italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-600italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-600italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* lora-700italic - latin */
+/* ibm-plex-mono-700 - latin */
 @font-face {
-  font-family: 'Lora';
-  font-style: italic;
-  font-weight: 700;
-  src: local(''),
-       url('/fonts/Lora/lora-v25-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Lora/lora-v25-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* noto-serif-regular - latin */
-@font-face {
-  font-family: 'Noto Serif';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url('/fonts/Noto-Serif/noto-serif-v21-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Noto-Serif/noto-serif-v21-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* noto-serif-italic - latin */
-@font-face {
-  font-family: 'Noto Serif';
-  font-style: italic;
-  font-weight: 400;
-  src: local(''),
-       url('/fonts/Noto-Serif/noto-serif-v21-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Noto-Serif/noto-serif-v21-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* noto-serif-700 - latin */
-@font-face {
-  font-family: 'Noto Serif';
+  font-family: 'IBM Plex Mono';
   font-style: normal;
   font-weight: 700;
   src: local(''),
-       url('/fonts/Noto-Serif/noto-serif-v21-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Noto-Serif/noto-serif-v21-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* noto-serif-700italic - latin */
+/* ibm-plex-mono-700italic - latin */
 @font-face {
-  font-family: 'Noto Serif';
+  font-family: 'IBM Plex Mono';
   font-style: italic;
   font-weight: 700;
   src: local(''),
-       url('/fonts/Noto-Serif/noto-serif-v21-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Noto-Serif/noto-serif-v21-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Mono/ibm-plex-mono-v12-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* roboto-mono-regular - latin */
+/* ibm-plex-serif-regular - latin */
 @font-face {
-  font-family: 'Roboto Mono';
+  font-family: 'IBM Plex Serif';
   font-style: normal;
   font-weight: 400;
   src: local(''),
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* roboto-mono-500 - latin */
+/* ibm-plex-serif-italic - latin */
 @font-face {
-  font-family: 'Roboto Mono';
+  font-family: 'IBM Plex Serif';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''),
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* ibm-plex-serif-500 - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
   font-style: normal;
   font-weight: 500;
   src: local(''),
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* roboto-mono-600 - latin */
+/* ibm-plex-serif-500italic - latin */
 @font-face {
-  font-family: 'Roboto Mono';
-  font-style: normal;
-  font-weight: 600;
-  src: local(''),
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* roboto-mono-700 - latin */
-@font-face {
-  font-family: 'Roboto Mono';
-  font-style: normal;
-  font-weight: 700;
-  src: local(''),
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* roboto-mono-italic - latin */
-@font-face {
-  font-family: 'Roboto Mono';
-  font-style: italic;
-  font-weight: 400;
-  src: local(''),
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* roboto-mono-500italic - latin */
-@font-face {
-  font-family: 'Roboto Mono';
+  font-family: 'IBM Plex Serif';
   font-style: italic;
   font-weight: 500;
   src: local(''),
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-500italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-500italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-500italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-500italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* roboto-mono-600italic - latin */
+/* ibm-plex-serif-600 - latin */
 @font-face {
-  font-family: 'Roboto Mono';
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''),
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* ibm-plex-serif-600italic - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
   font-style: italic;
   font-weight: 600;
   src: local(''),
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-600italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-600italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-600italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-600italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* roboto-mono-700italic - latin */
+/* ibm-plex-serif-700 - latin */
 @font-face {
-  font-family: 'Roboto Mono';
+  font-family: 'IBM Plex Serif';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* ibm-plex-serif-700italic - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
   font-style: italic;
   font-weight: 700;
   src: local(''),
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/fonts/Roboto-Mono/roboto-mono-v22-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/IBM-Plex-Serif/ibm-plex-serif-v15-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 
 $font-sans: Inter, -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
-$font-serif: Noto Serif, Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-$font-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+$font-serif: IBM Plex Serif, Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+$font-mono: IBM Plex Mono, Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
 

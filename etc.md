@@ -4,7 +4,7 @@ title: etc
 section: ETC
 ---
 
-# Et cetera
+# etc
 
 ## Some tools I like
 
