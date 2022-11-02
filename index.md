@@ -5,11 +5,11 @@ title:
 section: about
 ---
 
+## About me
+
 <div class="card">
   <img src="me.png">
 </div>
-
-# About me
 
 Hey there! I am a PhD student at the University of Campinas ([IMECC](https://www.ime.unicamp.br/)/[Unicamp](https://www.unicamp.br/)), Brazil.
 
