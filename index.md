@@ -2,7 +2,7 @@
 layout: default
 name: about
 title:
-section: ABOUT
+section: about
 ---
 
 <div class="card">

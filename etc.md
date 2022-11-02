@@ -1,7 +1,7 @@
 ---
 layout: default
 title: etc
-section: ETC
+section: etc
 ---
 
 # etc
