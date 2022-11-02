@@ -20,10 +20,9 @@ Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), the
 
 ## Publications
 
-- (2023) H. K. Miyamoto, F. C. C. Meneghetti, S. I. R. Costa — *The Fisher-Rao Loss for Learning under Label Noise*, submitted to Information Geometry
+- (2023) H. K. Miyamoto, F. C. C. Meneghetti, S. I. R. Costa — *[The Fisher-Rao Loss for Learning under Label Noise](https://arxiv.org/abs/2210.16401)*
 - (2022) F. C. C. Meneghetti, H. K. Miyamoto, S. I. R. Costa — ***Information Properties of a Random Variable Decomposition through Lattices***, to appear in the Proceedings of MaxEnt 2022
-- (2020 --- Master's Dissertation) [Reticulados: um estudo de alguns parâmetros
-relevantes para aplicações em criptografia](docs/dissertacao.pdf)
+- (2020 --- Master's Dissertation) *[Reticulados: um estudo de alguns parâmetros relevantes para aplicações em criptografia](docs/dissertacao.pdf)*
 
 ## Texts
 
