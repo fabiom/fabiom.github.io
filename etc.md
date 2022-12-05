@@ -10,24 +10,21 @@ section: etc
 
 I try to use softwares which are mainly free/open source, and respectful to the user's privacy.
 
-- Search engine: [DuckDuckGo](https://duckduckgo.com), [Ecosia](https://www.ecosia.org)
+- Search engine: [Ecosia](https://www.ecosia.org), [DuckDuckGo](https://duckduckgo.com)
 - Email: [ProtonMail](https://proton.me)
-- Password Manager: [Bitwarden](https://bitwarden.com/)
+- Password Manager: [Bitwarden](https://bitwarden.com/), [KeePassXC](https://keepassxc.org/)
 - Web browser: [Firefox](https://firefox.com)
 - Web browser extensions:
     - [uBlock Origin](https://github.com/gorhill/uBlock) with [uBO-YouTube](https://github.com/x0a/uBO-YouTube)
-    - [Decentraleyes](https://decentraleyes.org/)
-    - [Dark Reader](https://darkreader.org/)
-    - [ClearURLs](https://clearurls.xyz)
 - OS: [Pop!\_OS](https://pop.system76.com/), [LineageOS](https://lineageos.org/)
-- Blogging: [Mataroa](https://mataroa.blog)
+- Blogging: [Mataroa](https://mataroa.blog), [Bear](https://bearblog.dev/)
 - LaTeX: [Overleaf](https://www.overleaf.com/), [Setzer](https://www.cvfosammmm.org/setzer/)
 
 ## Hobbies
 
 - Table tennis
+- Running and walking
 - Retro video games
-- Running and brisk walking
 - Tinkering with Linux
 
 ## Friends with webpages
