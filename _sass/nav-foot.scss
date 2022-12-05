@@ -2,7 +2,6 @@ nav {
     display: block;
     background: $darker-background;
     color: $color;
-    font-weight: 600;
     padding: $nav-button-padding 0 0;
 
     .title {
@@ -28,7 +27,6 @@ nav {
     }
 
     ul {
-        font-size: 90%;
         font-family: $font-mono;
         margin: 0 auto;
         padding: 0 10px;
@@ -42,11 +40,13 @@ nav {
 		color: $nav-link-color;
 		display: block;
                 padding: 8px;
+		text-decoration: none;
             }
         }
     }
     .active {
         color: $color;
+	font-weight: 700;
     }
 
     hr {
