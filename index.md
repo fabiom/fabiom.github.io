@@ -18,12 +18,11 @@ Currently my areas of main interest are at the intersection of geometry and info
 
 ## Links
 
-<ul>
-  <li><a href="/docs/resume.pdf">Resume</a></li>
-  <li><a href="http://lattes.cnpq.br/5029099102514492">CV Lattes</a></li>
-  <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">ResearchGate</a></li>
-  <li><a href="https://github.com/fabiom">GitHub</a></li>
-</ul>
+- [Resume](/docs/resume.pdf)
+- [CV Lattes](http://lattes.cnpq.br/5029099102514492)
+- [ResearchGate](https://www.researchgate.net/profile/Fabio-C-C-Meneghetti)
+- [Google Scholar](https://scholar.google.com/citations?user=htGuJdwAAAAJ)
+- [GitHub](https://github.com/fabiom)
 
 ## Contact
 

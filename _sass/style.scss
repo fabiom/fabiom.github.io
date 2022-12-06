@@ -51,6 +51,7 @@ h2,h3,h4{ margin-top: 1.2em; }
 // About page
 .card {
     > img {
+				border-radius: 5px;
         float: right;
         max-width: 30%;
         margin: 2px 0 7px 7px;
