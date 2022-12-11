@@ -15,6 +15,7 @@ section: about
     <li><a href="http://lattes.cnpq.br/5029099102514492">{% include svg/lattes.svg %}Lattes</a></li>
     <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">{% include svg/researchgate.svg %}Research Gate</a></li>
     <li><a href="https://scholar.google.com/citations?user=htGuJdwAAAAJ">{% include svg/google-scholar.svg %}Google Scholar</a></li>
+    <li><a href="https://orcid.org/0000-0001-8323-1282">{% include svg/orcid.svg %}ORCID</a></li>
     <li><a href="https://github.com/fabiom">{% include svg/github.svg %}GitHub</a></li>
     <li><a href=""></a></li>
   </ul>
