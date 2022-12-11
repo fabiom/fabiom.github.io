@@ -43,7 +43,7 @@ Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), the
 ### Other works
 
 - (2021) *[An introduction to code-based cryptography](docs/code-based-cripto.pdf)* (MO421 course project)
-- (2020) *[Reticulados e Aplica ̧c ̃oes em Criptografia](https://proceedings.sbmac.org.br/sbmac/article/view/2975/3007)* (Event resume, In: CNMAC 2019)
+- (2020) *[Reticulados e Aplicações em Criptografia](https://proceedings.sbmac.org.br/sbmac/article/view/2975/3007)* (Event resume, In: CNMAC 2019)
 - (2016) *[A study of Superregular Matrices and MDS Codes](https://doi.org/10.19146/pibic-2016-51367)* (Event resume, In: XXIV Congresso de Iniciação Científica da Unicamp)
 
 ## Presentations
