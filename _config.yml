@@ -6,7 +6,5 @@ markdown: kramdown
 nav:
   - name: "about"
     link: "/"
-  - name: "research"
-    link: "/research"
   - name: "etc"
     link: "/etc"
