@@ -36,14 +36,15 @@ Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), the
 
 ## Publications
 
-- (2022) F. C. C. Meneghetti, H. K. Miyamoto, S. I. R. Costa — *[Information Properties of a Random Variable Decomposition through Lattices](https://www.mdpi.com/2673-9984/5/1/19)*, (Proceeding Paper, Presented at the 41st International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering --- MaxEnt2022)
+- (2022) F. C. C. Meneghetti, H. K. Miyamoto, S. I. R. Costa — *[Information Properties of a Random Variable Decomposition through Lattices](https://www.mdpi.com/2673-9984/5/1/19)*, (Proceeding Paper, In: MaxEnt2022)
 - (2022) H. K. Miyamoto, F. C. C. Meneghetti, S. I. R. Costa — *[The Fisher-Rao Loss for Learning under Label Noise](https://doi.org/10.1007/s41884-022-00076-8)* (Information Geometry --- Springer)
 - (2020) *[Reticulados: um estudo de alguns parâmetros relevantes para aplicações em criptografia](docs/dissertacao.pdf)* (Master's Dissertation)
-- (2016) *[A study of Superregular Matrices and MDS Codes](https://doi.org/10.19146/pibic-2016-51367)* (XXIV Congresso de Iniciação Científica da Unicamp)
 
-### Other texts
+### Other works
 
-- (2021) [An introduction to code-based cryptography](docs/code-based-cripto.pdf)
+- (2021) *[An introduction to code-based cryptography](docs/code-based-cripto.pdf)* (MO421 course project)
+- (2020) *[Reticulados e Aplica ̧c ̃oes em Criptografia](https://proceedings.sbmac.org.br/sbmac/article/view/2975/3007)* (Event resume, In: CNMAC 2019)
+- (2016) *[A study of Superregular Matrices and MDS Codes](https://doi.org/10.19146/pibic-2016-51367)* (Event resume, In: XXIV Congresso de Iniciação Científica da Unicamp)
 
 ## Presentations
 
