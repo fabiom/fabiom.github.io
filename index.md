@@ -9,17 +9,17 @@ section: about
 # About me
 
 <div class="card">
-  <img src="me.png">
+  <img id="me" src="me.png">
   <ul>
-    <li><a href="/docs/resume.pdf">{% include svg/cv.svg %}Resume</a></li>
-    <li><a href="http://lattes.cnpq.br/5029099102514492">{% include svg/lattes.svg %}Lattes</a></li>
-    <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">{% include svg/researchgate.svg %}Research Gate</a></li>
-    <li><a href="https://scholar.google.com/citations?user=htGuJdwAAAAJ">{% include svg/google-scholar.svg %}Google Scholar</a></li>
-    <li><a href="https://orcid.org/0000-0001-8323-1282">{% include svg/orcid.svg %}ORCID</a></li>
-    <li><a href="https://github.com/fabiom">{% include svg/github.svg %}GitHub</a></li>
-    <li><a href=""></a></li>
+    <li><a href="/docs/resume.pdf">{% include svg/cv.svg %}</a></li>
+    <li><a href="http://lattes.cnpq.br/5029099102514492">{% include svg/lattes.svg %}</a></li>
+    <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">{% include svg/researchgate.svg %}</a></li>
+    <li><a href="https://scholar.google.com/citations?user=htGuJdwAAAAJ">{% include svg/google-scholar.svg %}</a></li>
+    <li><a href="https://orcid.org/0000-0001-8323-1282">{% include svg/orcid.svg %}</a></li>
+    <li><a href="https://github.com/fabiom">{% include svg/github.svg %}</a></li>
   </ul>
-  <span>Email: <code>contact@fabiom.net</code></span>
+  <span id="email">Email: <code>contact@fabiom.net</code></span><br/>
+  <span id="email">Telegram: <code><a href="https://t.me/fabiom">@fabiom</a></code></span>
 </div>
 
 Hey there! I am a PhD student at the University of Campinas ([IMECC](https://www.ime.unicamp.br/)/[Unicamp](https://www.unicamp.br/)), advised by Prof. Sueli I. R. Costa.
@@ -57,8 +57,3 @@ Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), the
 - (2019) [Reticulados e Aplicações em Criptografia](docs/cnmac-2019-poster.pdf) — Poster, CNMAC @UFU
 - (2016) [Curso de LaTeX](/curso-LaTeX-camecc)
 - (2016) [Uma Introdução à Teoria de Códigos](docs/divulgamat2016.pdf)
-
-## Contact
-
-- Email: `contact@fabiom.net`
-- Telegram: [@fabiom](https://t.me/fabiom)
