@@ -8,6 +8,8 @@ section: about
 
 # About me
 
+Hey there! I am a PhD student at the University of Campinas ([IMECC](https://www.ime.unicamp.br/)/[Unicamp](https://www.unicamp.br/)), advised by Prof. Sueli I. R. Costa.
+
 <div class="card">
   <img id="me" src="me.png">
   <ul>
@@ -21,8 +23,6 @@ section: about
   <span id="email">Email: <code>contact@fabiom.net</code></span><br/>
   <span id="email">Telegram: <code><a href="https://t.me/fabiom">@fabiom</a></code></span>
 </div>
-
-Hey there! I am a PhD student at the University of Campinas ([IMECC](https://www.ime.unicamp.br/)/[Unicamp](https://www.unicamp.br/)), advised by Prof. Sueli I. R. Costa.
 
 ## Interests
 
