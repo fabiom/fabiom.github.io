@@ -12,13 +12,13 @@ Hey there! I am a PhD student at the University of Campinas ([IMECC](https://www
 
 <div class="card">
   <img id="me" src="me.png">
+  <h3>Links</h3>
   <ul>
-    <li><a href="/docs/resume.pdf">{% include svg/cv.svg %}</a></li>
     <li><a href="http://lattes.cnpq.br/5029099102514492">{% include svg/lattes.svg %}</a></li>
-    <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">{% include svg/researchgate.svg %}</a></li>
     <li><a href="https://scholar.google.com/citations?user=htGuJdwAAAAJ">{% include svg/google-scholar.svg %}</a></li>
+    <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">{% include svg/researchgate.svg %}</a></li>
     <li><a href="https://orcid.org/0000-0001-8323-1282">{% include svg/orcid.svg %}</a></li>
-    <li><a href="https://github.com/fabiom">{% include svg/github.svg %}</a></li>
+    <li><a href="https://mathstodon.xyz/@fabiom">{% include svg/mastodon.svg %}</a></li>
   </ul>
   <span id="email">Email: <code>contact@fabiom.net</code></span><br/>
   <span id="email">Telegram: <code><a href="https://t.me/fabiom">@fabiom</a></code></span>
