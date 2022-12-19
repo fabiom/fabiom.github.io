@@ -3,6 +3,9 @@ favicon_location: /icons/favicon.png
 
 markdown: kramdown
 
+include:
+  - .well-known
+
 nav:
   - name: "about"
     link: "/"
