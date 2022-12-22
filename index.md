@@ -5,7 +5,7 @@ title:
 section: about
 ---
 
-# Fábio Meneghetti
+# Fábio C. C. Meneghetti
 
 ![A pixelated picture of me.](me.png "This was created using dithering."){:#me}
 

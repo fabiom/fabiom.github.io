@@ -13,7 +13,7 @@ nav {
         li {
             display: inline-block;
             a {
-                color: $color;
+                color: var(--primary-color);
 		        display: block;
                 padding: 14px 10px;
 		        text-decoration: none;
@@ -21,16 +21,19 @@ nav {
                     text-decoration: underline;
                 }
             }
+            &.nav-right {
+                float: right;
+            }
+        }
+        svg {
+            fill: var(--primary-color);
         }
         li.mastodon {
-            float: right;
             a {
                 width: 1.2em;
-                svg {
-                    fill: $color;
-                }
+                height: 1.4em;
                 &:hover > svg {
-                    fill: #bbbbbb;
+                    fill: var(--secondary-color);
                     transition: fill 0.2s;
                 }
             }
@@ -41,6 +44,17 @@ nav {
         padding-bottom: 11px;
     }
 
+    .theme-selector {
+        padding: 12px 10px;
+        background: 0;
+        border: 0;
+        width: 2.9em;
+        height: 50.4px;
+        &:hover svg {
+            fill: var(--secondary-color);
+        }
+    }
+
     hr {
 	margin: 0;
     }
@@ -48,7 +62,7 @@ nav {
 
 footer {
     margin: 2em 0;
-    color: $footer-color;
+    color: var(--secondary-color);
     font-size: $footer-font-size;
     font-family: $font-mono;
     text-align: center;

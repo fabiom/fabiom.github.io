@@ -3,7 +3,9 @@
 	    {% for i in site.nav %}
         <li><a class="{% if page.section == i.name %}active{% endif %}" href="{{ i.link }}">{{ i.name }}</a></li>
         {% endfor %}
-        <li class="mastodon"><a rel="me" alt="Follow me on Mastodon!" title="Mastodon" href="https://mathstodon.xyz/@fabiom">{% include svg/mastodon.svg %}</a></li>
+        <li class="nav-right"><button class="theme-selector" type="button" title="Toggle dark mode">{% include svg/sun-solid.svg %}</button></li>
+        <li class="mastodon nav-right"><a rel="me" alt="Follow me on Mastodon!" title="Mastodon" href="https://mathstodon.xyz/@fabiom">{% include svg/mastodon.svg %}</a></li>
     </ul>
     <hr>
+    <script src="{{ site.baseurl }}/js/theme.js"></script>
 </nav>

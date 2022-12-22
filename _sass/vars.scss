@@ -1,5 +1,19 @@
+:root {
+    --primary-color: #f2f2f2;
+    --secondary-color: #888;
+    --bg-color: #1F2122;
+    --link-color: #6bc7ff;
+    --button-color: #28cc87;
+}
 
-// Colors
+:root[data-theme-preference=light] {
+    --primary-color: #1F2122;
+    --secondary-color: #777;
+    --bg-color: #f2f2f2;
+    --link-color: royalblue;
+    --button-color: royalblue;
+}
+
 $background: #1F2122;
 $darker-background: #1F2122;
 $color: #f2f2f2;

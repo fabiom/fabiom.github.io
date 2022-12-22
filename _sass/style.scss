@@ -2,13 +2,18 @@
 @import "fonts";
 @import "nav-foot";
 
+html{
+    color-scheme: dark light;
+}
+
 body{
     margin: 0;
-    background: $background;
-    color: $color;
+    background: var(--bg-color);
+    color: var(--primary-color);
     font-family: $font-serif;
     font-weight: 500;
     line-height: 1.4;
+    transition: background 0.2s;
 }
 
 .wrapper{
@@ -28,9 +33,9 @@ p {
     font-size: 1.04em;
 }
 a {
-    color: $link-color;
+    color: var(--link-color);
     &:hover {
-        color: white;
+        color: var(--primary-color);
         transition: color .2s;
     }
 }
@@ -58,12 +63,14 @@ h2,h3,h4{ margin-top: 1.2em; }
 
 #me {
     border-radius: 6px;
+    border: 1px solid;
     float: right;
     margin: 0.3em;
+    max-width: 30%;
 }
 
 svg {
-    display: block;
+    display: unset;
     max-width: 3em;
     max-height: 3em;
     margin: auto;
@@ -81,15 +88,15 @@ svg {
         vertical-align: top;
     }
     svg {
-        fill: $nav-link-color;
+        fill: var(--button-color);
     }
     a {
-        color: $nav-link-color;
+        color: var(--button-color);
         &:hover {
-            color: $color;
+            color: var(--primary-color);
             transition: color 0.2s;
             > svg {
-                fill: $color;
+                fill: var(--primary-color);
                 transition: fill 0.2s;
             }
         }
