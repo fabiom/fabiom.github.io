@@ -1,11 +1,9 @@
 <nav>
-    <div class="title">  
-	<h1><a href="/">Fábio Meneghetti</a></h1>
-        <span class="name-description">PhD Student</span>
-    </div>
-
     <ul>
-	    {% for i in site.nav %}<li><a class="{% if page.section == i.name %}active{% endif %}" href="{{ i.link }}">{{ i.name }}</a></li>{% if forloop.last == false %}/{% endif %}{% endfor %}
+	    {% for i in site.nav %}
+        <li><a class="{% if page.section == i.name %}active{% endif %}" href="{{ i.link }}">{{ i.name }}</a></li>
+        {% endfor %}
+        <li class="mastodon"><a rel="me" alt="Follow me on Mastodon!" title="Mastodon" href="https://mathstodon.xyz/@fabiom">{% include svg/mastodon.svg %}</a></li>
     </ul>
     <hr>
 </nav>
