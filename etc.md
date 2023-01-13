@@ -1,10 +1,9 @@
 ---
 layout: default
 title: etc
+subtitle: Miscellaneous things
 section: etc
 ---
-
-# etc
 
 ## Some tools I like
 

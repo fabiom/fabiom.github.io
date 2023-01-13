@@ -1,7 +1,7 @@
 nav {
+
     display: block;
-    color: $color;
-    border-top: 5px solid #249f6c;
+    border-top: 4px solid var(--accent-color);
 
     ul {
         font-family: $font-sans;
@@ -9,36 +9,33 @@ nav {
         padding: 0 6px;
         display: block;
         list-style: none;
-        max-width: $max-width;
+        max-width: 800px;
+
         li {
             display: inline-block;
-            a {
-                color: var(--primary-color);
-		        display: block;
+            
+						a {
+                color: var(--text-color);
+		            display: block;
                 padding: 14px 10px;
-		        text-decoration: none;
-                &:hover {
-                    text-decoration: underline;
-                }
-            }
-            &.nav-right {
-                float: right;
-            }
-        }
-        svg {
-            fill: var(--primary-color);
-        }
-        li.mastodon {
-            a {
-                width: 1.2em;
-                height: 1.4em;
-                &:hover > svg {
-                    fill: var(--secondary-color);
-                    transition: fill 0.2s;
-                }
-            }
-        }
-    }
+		            text-decoration: none;
+                &:hover { text-decoration: underline; }
+            
+						}
+            
+						&.nav-right { float: right; }
+        
+				}
+        
+				svg { fill: var(--text-color); }
+    
+		}
+
+		hr {
+				margin: 0;
+				border-color: var(--very-weak-color);
+	  }
+
     .active {
         border-bottom: 3px solid;
         padding-bottom: 11px;
@@ -53,23 +50,19 @@ nav {
         &:hover {
 						cursor: pointer;
 						svg {
-            	fill: var(--secondary-color);
+            	fill: var(--text-lighter-color);
 						}
         }
 				.theme-sun, .theme-moon {
 						font-size: 5pt;
 				}
     }
-
-    hr {
-	margin: 0;
-    }
 }
 
 footer {
     margin: 2em 0;
-    color: var(--secondary-color);
-    font-size: $footer-font-size;
+    color: var(--text-lighter-color);
+    font-size: 10pt;
     font-family: $font-mono;
     text-align: center;
 }

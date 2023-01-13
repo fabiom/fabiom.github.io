@@ -5,8 +5,6 @@ description: A summary of information geometry.
 section: ig
 ---
 
-# Information Geometry
-
 Information geometry studies the geometry of spaces of probability distributions, with particular focus to topics related to:
 - the Fisher information metric (a Riemannian metric),
 - the dually flat structure on these spaces,

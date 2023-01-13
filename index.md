@@ -1,35 +1,21 @@
 ---
 layout: default
 name: about
-title:
+title: Fábio C. C. Meneghetti
+subtitle: PhD Candidate @<a href="https://www.ime.unicamp.br">IMECC</a> (University of Campinas)
 section: about
 ---
 
-# Fábio C. C. Meneghetti
-
 ![A pixelated picture of me.](me.png "This was created using dithering."){:#me}
 
-Hey there! I am a PhD candidate at [IMECC](https://www.ime.unicamp.br/) (University of Campinas), advised by Prof. Sueli I. R. Costa. I'm interested in areas at the intersection of geometry and information theory.
+Hey there! I am a grad student of Mathematics, currently investigating the geometry within information theory. Current themes of research:
 
-### Links
-
-<ul id="link-list">
-  <li><a href="http://lattes.cnpq.br/5029099102514492">{% include svg/lattes.svg %}Lattes</a></li>
-  <li><a href="https://scholar.google.com/citations?user=htGuJdwAAAAJ">{% include svg/google-scholar.svg %}Scholar</a></li>
-  <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">{% include svg/researchgate.svg %}Research Gate</a></li>
-  <li><a href="https://orcid.org/0000-0001-8323-1282">{% include svg/orcid.svg %}ORCID</a></li>
-  <li><a href="https://mathstodon.xyz">{% include svg/mastodon.svg %}Mastodon</a></li>
-</ul>
-
-## Interests
-
-My areas of main interest are at the intersection of geometry and information theory, such as, but not limited to:
-
-- [Information geometry](/information-geometry) and statistical manifolds
-- Measures of information and divergence
+- Geometry of uniform vector quantization;
+- [Information geometry](/information-geometry) of statistical manifolds, with particular focus to discrete distributions;
+- Measures of information and divergence between probability distributions;
 - Lattices and applications to information sciences
 
-Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), these are roughly {`94A17`, `53B12`, `94A15`}.
+Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), these are roughly translated {`94A17`, `53B12`, `94A15`}.
 
 ## Publications
 
@@ -61,3 +47,13 @@ Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), the
 
 - Email: `contact@fabiom.net`
 - Telegram: [`@fabiom`](https://t.me/fabiom)
+
+### Links
+
+<ul id="link-list">
+  <li><a href="http://lattes.cnpq.br/5029099102514492">{% include svg/lattes.svg %}Lattes</a></li>
+  <li><a href="https://scholar.google.com/citations?user=htGuJdwAAAAJ">{% include svg/google-scholar.svg %}Scholar</a></li>
+  <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">{% include svg/researchgate.svg %}Research Gate</a></li>
+  <li><a href="https://orcid.org/0000-0001-8323-1282">{% include svg/orcid.svg %}ORCID</a></li>
+  <li><a href="https://mathstodon.xyz">{% include svg/mastodon.svg %}Mastodon</a></li>
+</ul>

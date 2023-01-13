@@ -1,20 +1,22 @@
 :root {
-    --primary-color: #f2f2f2;
-    --secondary-color: #888;
-    --bg-color: #1F2122;
-    --link-color: #6bc7ff;
-    --button-color: #28cc87;
-		.theme-moon { display:none; }
+	--text-color: #F2F2F2;
+	--text-lighter-color: #A6A6A6;
+	--background-color: #2C2C2C;
+	--very-weak-color: #525252;
+	--link-color: #6BC7FF;
+	--accent-color: #00BE84;
+	.theme-moon { display:none; }
 }
 
 :root[data-theme-preference=light] {
-    --primary-color: #1F2122;
-    --secondary-color: #777;
-    --bg-color: #f2f2f2;
-    --link-color: royalblue;
-    --button-color: royalblue;
-		.theme-sun { display:none; }
-		.theme-moon { display:initial; }
+	--text-color: #1F2122;
+	--text-lighter-color: #2C2C2C;
+	--background-color: #F2F2F2;
+	--very-weak-color: #ACACAC;
+	--link-color: royalblue;
+	--accent-color: royalblue;
+	.theme-sun { display:none; }
+	.theme-moon { display:initial; }
 }
 
 $background: #1F2122;
@@ -34,6 +36,4 @@ $footer-font-size: 10.8pt;
 // Sizes
 //
 
-$max-width: 45rem;
-$wrapper-padding: 15px;
 $nav-button-padding: 15px;

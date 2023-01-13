@@ -8,8 +8,8 @@ html{
 
 body{
     margin: 0;
-    background: var(--bg-color);
-    color: var(--primary-color);
+    background: var(--background-color);
+    color: var(--text-color);
     font-family: $font-serif;
     line-height: 1.4;
     transition: background 0.2s;
@@ -17,8 +17,14 @@ body{
 
 .wrapper{
     margin: 3em auto;
-    padding: 0 $wrapper-padding;
-    max-width: $max-width;
+    padding: 0 15px;
+    max-width: 800px;
+
+		.pagetitle {
+				padding: 1.2em 0;
+				h1 { margin: 0; }
+				.pagesubtitle { color: var(--text-lighter-color); }
+		}
 
     li {
         margin-bottom: 5px;
@@ -31,7 +37,7 @@ body{
 a {
     color: var(--link-color);
     &:hover {
-        color: var(--primary-color);
+        color: var(--text-color);
         transition: color .2s;
     }
 }
@@ -54,7 +60,7 @@ h1 {
   font-size: 2.2em;
 }
 h2 {
-  border-bottom: 1px solid $footer-color;
+  border-bottom: 1px solid var(--very-weak-color);
 }
 h2,h3,h4{ margin-top: 1.2em; }
 
@@ -87,15 +93,16 @@ svg {
         vertical-align: top;
     }
     svg {
-        fill: var(--button-color);
+        fill: var(--accent-color);
     }
     a {
-        color: var(--button-color);
+				display: block;
+        color: var(--accent-color);
         &:hover {
-            color: var(--primary-color);
+            color: var(--text-lighter-color);
             transition: color 0.2s;
-            > svg {
-                fill: var(--primary-color);
+            svg {
+                fill: var(--text-color);
                 transition: fill 0.2s;
             }
         }
