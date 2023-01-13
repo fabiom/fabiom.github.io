@@ -18,6 +18,7 @@ Hey there! I am a PhD candidate at [IMECC](https://www.ime.unicamp.br/) (Univers
   <li><a href="https://scholar.google.com/citations?user=htGuJdwAAAAJ">{% include svg/google-scholar.svg %}Scholar</a></li>
   <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">{% include svg/researchgate.svg %}Research Gate</a></li>
   <li><a href="https://orcid.org/0000-0001-8323-1282">{% include svg/orcid.svg %}ORCID</a></li>
+  <li><a href="https://mathstodon.xyz">{% include svg/mastodon.svg %}Mastodon</a></li>
 </ul>
 
 ## Interests

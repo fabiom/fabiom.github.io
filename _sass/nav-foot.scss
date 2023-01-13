@@ -45,14 +45,20 @@ nav {
     }
 
     .theme-selector {
-        padding: 12px 10px;
+				padding: 11px;
         background: 0;
         border: 0;
-        width: 2.9em;
-        height: 50.4px;
-        &:hover svg {
-            fill: var(--secondary-color);
+				width: 3em;
+        height: 50px;
+        &:hover {
+						cursor: pointer;
+						svg {
+            	fill: var(--secondary-color);
+						}
         }
+				.theme-sun, .theme-moon {
+						font-size: 5pt;
+				}
     }
 
     hr {

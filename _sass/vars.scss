@@ -4,6 +4,7 @@
     --bg-color: #1F2122;
     --link-color: #6bc7ff;
     --button-color: #28cc87;
+		.theme-moon { display:none; }
 }
 
 :root[data-theme-preference=light] {
@@ -12,6 +13,8 @@
     --bg-color: #f2f2f2;
     --link-color: royalblue;
     --button-color: royalblue;
+		.theme-sun { display:none; }
+		.theme-moon { display:initial; }
 }
 
 $background: #1F2122;
