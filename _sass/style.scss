@@ -81,30 +81,19 @@ svg {
     margin: auto;
 }
 
-#link-list {
-    list-style: none;
-    padding: 0;
-    display: block;
-    font-size: 11pt;
-    li {
-        display: inline-block;
-        width: 4.5em;
-        text-align: center;
-        vertical-align: top;
-    }
-    svg {
-        fill: var(--accent-color);
-    }
-    a {
-				display: block;
-        color: var(--accent-color);
-        &:hover {
-            color: var(--text-lighter-color);
-            transition: color 0.2s;
-            svg {
-                fill: var(--text-color);
-                transition: fill 0.2s;
-            }
-        }
-    }
+#links {
+  list-style: none;
+  display: block;
+  padding: 0;
+  font-size: 8pt;
+  svg {
+    fill: var(--accent-color);
+    width: 3em;
+    height: 3em;
+  }
+
+  li {
+    display: inline-block;
+    margin-right: 6px;
+  }
 }

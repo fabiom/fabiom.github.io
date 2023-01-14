@@ -2,7 +2,8 @@
 layout: default
 name: about
 title: Fábio C. C. Meneghetti
-subtitle: PhD Candidate @<a href="https://www.ime.unicamp.br">IMECC</a> (University of Campinas)
+subtitle: PhD Candidate @<a href="https://www.ime.unicamp.br">IMECC</a> (Unicamp)
+display-links: true
 section: about
 ---
 
@@ -47,13 +48,3 @@ Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), the
 
 - Email: `contact@fabiom.net`
 - Telegram: [`@fabiom`](https://t.me/fabiom)
-
-### Links
-
-<ul id="link-list">
-  <li><a href="http://lattes.cnpq.br/5029099102514492">{% include svg/lattes.svg %}Lattes</a></li>
-  <li><a href="https://scholar.google.com/citations?user=htGuJdwAAAAJ">{% include svg/google-scholar.svg %}Scholar</a></li>
-  <li><a href="https://www.researchgate.net/profile/Fabio-C-C-Meneghetti">{% include svg/researchgate.svg %}Research Gate</a></li>
-  <li><a href="https://orcid.org/0000-0001-8323-1282">{% include svg/orcid.svg %}ORCID</a></li>
-  <li><a href="https://mathstodon.xyz">{% include svg/mastodon.svg %}Mastodon</a></li>
-</ul>
