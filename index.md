@@ -4,6 +4,7 @@ name: about
 title: Fábio C. C. Meneghetti
 subtitle: PhD Candidate at <a href="https://www.ime.unicamp.br">IMECC</a> (Unicamp)
 display-links: true
+customcss: about
 section: about
 ---
 
@@ -20,9 +21,7 @@ Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), the
 
 ## Publications
 
-- (2022) **F. C. C. Meneghetti**, H. K. Miyamoto, S. I. R. Costa. [Information Properties of a Random Variable Decomposition through Lattices](https://www.mdpi.com/2673-9984/5/1/19), (Proceeding Paper, In: MaxEnt2022)
-- (2022) H. K. Miyamoto, **F. C. C. Meneghetti**, S. I. R. Costa. [The Fisher-Rao Loss for Learning under Label Noise](https://doi.org/10.1007/s41884-022-00076-8) (Information Geometry)
-- (2020) *[Reticulados: um estudo de alguns parâmetros relevantes para aplicações em criptografia](docs/dissertacao.pdf)* (Master's Dissertation)
+{% include publications.html %}
 
 ### Other works
 

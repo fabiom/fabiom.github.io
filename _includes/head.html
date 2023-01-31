@@ -15,6 +15,10 @@
   <!-- CSS / SaSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 
+  {% if page.customcss %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/{{ page.customcss }}.css">
+  {% endif %}
+
   <!-- KaTeX -->
 
   {% if page.katex %}
