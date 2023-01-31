@@ -46,9 +46,9 @@ body {
 
 a {
     color: var(--link-color);
+    text-decoration: none;
     &:hover {
-        color: var(--text-color);
-        transition: color .2s;
+        text-decoration: underline;
     }
 }
 

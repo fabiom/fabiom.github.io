@@ -1,6 +1,6 @@
 {% for publication in site.data.publications | sort: 'date' %}
 <div class="publication">
-  <a class="publication-text" href="{{ publication.link }}">{{ publication.title }}</a>
+  <span class="publication-text"><a href="{{ publication.link }}">{{ publication.title }}</a></span>
   <span class="publication-text">{{ publication.authors }}</span>
   <span class="publication-text">{{ publication.date}} — <i>{{ publication.identifier }}</i> — 
   {% if publication.doi %}
