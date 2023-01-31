@@ -1,3 +1,5 @@
+@import "fonts";
+
 // About page
 
 #me {
@@ -39,6 +41,7 @@
 
 .pub-button {
   font-size: small;
+  font-family: $font-mono;
   font-weight: 600;
   text-decoration: none;
   color: #fff;
