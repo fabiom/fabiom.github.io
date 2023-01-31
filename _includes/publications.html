@@ -2,8 +2,7 @@
 <div class="publication">
   <a class="publication-text" href="{{ publication.link }}">{{ publication.title }}</a>
   <span class="publication-text">{{ publication.authors }}</span>
-  <i class="publication-text">{{ publication.identifier }}</i>
-  {{ publication.date }} — 
+  <span class="publication-text">{{ publication.date}} — <i>{{ publication.identifier }}</i> — 
   {% if publication.doi %}
     <a class="pub-button doi" href="https://doi.org/{{ publication.doi }}">doi</a>
   {% endif %}
@@ -13,5 +12,6 @@
   {% if publication.pdf %}
     <a class="pub-button pdf" href="{{ publication.pdf }}">PDF</a>
   {% endif %}
+  </span>
 </div>
 {% endfor %}
