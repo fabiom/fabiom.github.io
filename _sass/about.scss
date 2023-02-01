@@ -36,16 +36,15 @@
 
 .publication-text {
   display: block;
-  margin-bottom: 3px;
 }
 
 .pub-button {
   font-size: small;
-  font-family: $font-mono;
+  font-family: var(--font-mono);
   font-weight: 600;
   text-decoration: none;
   color: #fff;
-  padding: 1px 5px;
+  padding: 2px 5px;
   &:hover {
     text-decoration: none;
   }

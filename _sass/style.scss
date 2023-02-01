@@ -17,7 +17,7 @@ body {
     margin: 0;
     background: var(--background-color);
     color: var(--text-color);
-    font-family: $font-serif;
+    font-family: var(--font-sans);
     line-height: 1.4;
     transition: background 0.2s;
 }
@@ -33,7 +33,7 @@ body {
 		}
     .pagesubtitle {
       display: block;
-      margin: 0.5em 0;
+      margin: 0.2em 0;
     }
 
     li {
@@ -52,7 +52,7 @@ a {
     }
 }
 
-code { font-family: $font-mono; }
+code { font-family: var(--font-mono); }
 
 hr {
     border-top: 0;
@@ -68,10 +68,9 @@ img {
 // Headers
 
 h1,h2,h3,h4 {
-  font-family: $font-sans;
+  font-family: var(--font-sans);
 	font-weight: 500;
 }
-h1 { font-size: 2.2em; }
 h2 { border-bottom: 1px solid var(--very-weak-color); }
 h2,h3,h4 { margin-top: 1.2em; }
 
@@ -93,7 +92,7 @@ nav {
   border-top: 4px solid var(--accent-color);
 
   ul {
-      font-family: $font-sans;
+      font-family: var(--font-sans);
       margin: 0 auto;
       padding: 0;
       display: block;
@@ -150,7 +149,7 @@ nav {
 footer {
   margin: 2em 0;
   font-size: 11pt;
-  font-family: $font-mono;
+  font-family: var(--font-mono);
   text-align: center;
 }
 

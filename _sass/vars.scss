@@ -1,13 +1,17 @@
 :root {
 	--text-color: #F2F2F2;
 	--text-lighter-color: #A6A6A6;
-	--background-color: #2C2C2C;
+	--background-color: #242629;
 	--very-weak-color: #525252;
 	--link-color: #6BC7FF;
 	--accent-color: #00BE84;
 	.theme-moon { display:none; }
 
 	--wrapper-width: 700px;
+  
+  --font-sans: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+  --font-serif: font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --font-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace; 
 }
 
 :root[data-theme-preference=light] {
