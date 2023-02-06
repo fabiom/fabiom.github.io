@@ -3,7 +3,7 @@ layout: default
 title: etc
 subtitle: Miscellaneous things
 section: etc
-permalink: /etc/
+permalink: /etc
 ---
 
 ## Some tools I like
