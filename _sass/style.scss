@@ -173,7 +173,7 @@ footer {
 
 .blog-post-title {
   display: block;
-  font: 2em $font-sans;
+  font: 2em var(--font-sans);
   margin-bottom: .2em;
   color: var(--link-color);
   text-decoration: none;

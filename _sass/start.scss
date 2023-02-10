@@ -1,0 +1,31 @@
+body {
+  font-family: var(--font-sans);
+  background: #222222;
+  color: #F2F2F2;
+}
+
+.wrapper {
+  max-width: 80em;
+  display: flex;
+  margin: 20% auto 0;
+}
+
+a {
+  text-decoration: none;
+  color: palegreen;
+  &:hover {
+    text-decoration:underline;
+  }
+}
+
+.start-cat {
+  padding: 25px;
+  max-width: 250px;
+  ul {
+    list-style: none;
+    padding: 0;
+    li {
+      margin: 5px;
+    }
+  }
+}

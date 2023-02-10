@@ -1,0 +1,68 @@
+- organizacao:
+  name: Organização
+  links:
+    - title: ProtonMail
+      link: https://mail.proton.me/u/0/
+      icon: https://mail.proton.me/assets/favicon.ico
+    - title: Email DAC
+      link: https://mail.google.com/mail/u/1/
+    - title: Calendar
+      link: https://calendar.proton.me/u/0/
+- academico:
+  name: Acadêmico
+  links:
+    - title: ResearchGate
+      link: https://www.researchgate.net
+    - title: Overleaf
+      link: https://www.overleaf.com/project
+    - title: Lattes
+      link: https://lattes.cnpq.br
+- social:
+  name: Social
+  links:
+    - title: Mathstodon
+      link: https://mathstodon.xyz
+    - title: Twitter
+      link: https://twitter.com
+    - title: Letterboxd
+      link: https://letterboxd.com
+    - title: WhatsApp Web
+      link: https://web.whatsapp.com
+    - title: YouTube
+      link: https://www.youtube.com
+- news:
+  name: Notícias
+  links:
+    - title: Nexo
+      link: https://www.nexojornal.com.br
+    - title: Folha de S. Paulo
+      link: https://www.folha.uol.com.br
+    - title: O Globo
+      link: https://oglobo.globo.com
+    - title: Estadão
+      link: https://www.estadao.com.br
+    - title: g1
+      link: https://g1.globo.com
+    - title: uol
+      link: https://www.uol.com.br
+- tech:
+  name: Tecnologia
+  links:
+    - title: Hacker News
+      link: https://news.ycombinator.com
+    - title: Ars Technica
+      link: https://arstechnica.com
+    - title: OMG! Ubuntu
+      link: http://www.omgubuntu.co.uk
+    - title: OMG! Linux
+      link: https://www.omglinux.com
+    - title: PrivacyTools
+      link: https://www.privacytools.io
+- midia:
+  name: Filmes e Séries
+  links:
+    - title: HBO Max
+      link: https://play.hbomax.com
+    - title: Globoplay
+      link: https://globoplay.globo.com
+

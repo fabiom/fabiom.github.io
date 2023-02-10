@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<head>
+  <link rel="stylesheet" href="/css/fonts.css">
+  <link rel="stylesheet" href="/css/start.css">
+</head>
+
+<body>
+
+<div class="wrapper">
+
+{% for category in site.data.start %}
+<div class="start-cat">
+  <h2>{{ category.name }}</h2>
+  <ul>
+  {% for link in category.links %}
+    <li><a href='{{ link.link }}'>{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+</div>
+{% endfor %}
+
+</div>
+
+</body>
