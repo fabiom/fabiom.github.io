@@ -10,6 +10,10 @@
 
 <div class="wrapper">
 
+<form class="searchbox" method="get" id="search" action="https://duckduckgo.com/">
+<input class="search" type="text" name="q" maxlength="300" placeholder="DuckDuckGo Search" autofocus/>
+</form>
+
 {% for category in site.data.start %}
 <div class="start-cat">
   <h2><i class="fa fa-{{ category.icon }}" aria-hidden="true"></i> {{ category.name }}</h2>
