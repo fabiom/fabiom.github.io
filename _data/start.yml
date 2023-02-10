@@ -1,5 +1,5 @@
-- organizacao:
-  name: Organização
+- name: Organização
+  icon: calendar-o
   links:
     - title: ProtonMail
       link: https://mail.proton.me/u/0/
@@ -8,8 +8,8 @@
       link: https://mail.google.com/mail/u/1/
     - title: Calendar
       link: https://calendar.proton.me/u/0/
-- academico:
-  name: Acadêmico
+- name: Acadêmico
+  icon: graduation-cap
   links:
     - title: ResearchGate
       link: https://www.researchgate.net
@@ -17,8 +17,8 @@
       link: https://www.overleaf.com/project
     - title: Lattes
       link: https://lattes.cnpq.br
-- social:
-  name: Social
+- name: Social
+  icon: users
   links:
     - title: Mathstodon
       link: https://mathstodon.xyz
@@ -30,8 +30,8 @@
       link: https://web.whatsapp.com
     - title: YouTube
       link: https://www.youtube.com
-- news:
-  name: Notícias
+- name: Notícias
+  icon: newspaper-o
   links:
     - title: Nexo
       link: https://www.nexojornal.com.br
@@ -45,8 +45,8 @@
       link: https://g1.globo.com
     - title: uol
       link: https://www.uol.com.br
-- tech:
-  name: Tecnologia
+- name: Tecnologia
+  icon: laptop
   links:
     - title: Hacker News
       link: https://news.ycombinator.com
@@ -58,8 +58,8 @@
       link: https://www.omglinux.com
     - title: PrivacyTools
       link: https://www.privacytools.io
-- midia:
-  name: Filmes e Séries
+- name: Filmes e Séries
+  icon: film
   links:
     - title: HBO Max
       link: https://play.hbomax.com
