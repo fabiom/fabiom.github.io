@@ -11,6 +11,8 @@
 - name: Acadêmico
   icon: graduation-cap
   links:
+    - title: arXiv math.IT
+      link: https://arxiv.org/list/math.IT/recent
     - title: ResearchGate
       link: https://www.researchgate.net
     - title: Overleaf
@@ -24,8 +26,6 @@
       link: https://mathstodon.xyz
     - title: Twitter
       link: https://twitter.com
-    - title: Letterboxd
-      link: https://letterboxd.com
     - title: WhatsApp Web
       link: https://web.whatsapp.com
     - title: YouTube
@@ -65,4 +65,5 @@
       link: https://play.hbomax.com
     - title: Globoplay
       link: https://globoplay.globo.com
-
+    - title: Letterboxd
+      link: https://letterboxd.com
