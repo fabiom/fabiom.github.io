@@ -19,7 +19,7 @@
   <h2><i class="fa fa-{{ category.icon }}" aria-hidden="true"></i> {{ category.name }}</h2>
   <ul>
   {% for link in category.links %}
-    <li><a href='{{ link.link }}'>{{ link.title }}</a></li>
+    <li><a href='{{ link.link }}'><img src='{{ link.icon }}'/> {{ link.title }}</a></li>
   {% endfor %}
   </ul>
 </div>

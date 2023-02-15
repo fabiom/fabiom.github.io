@@ -3,20 +3,25 @@
   links:
     - title: ProtonMail
       link: https://mail.proton.me/u/0/
-      icon: https://mail.proton.me/assets/favicon.ico
+      icon: /assets/ico/protonmail.ico
     - title: Email DAC
       link: https://mail.google.com/mail/u/1/
+      icon: /assets/ico/gmail.ico
     - title: Calendar
       link: https://calendar.proton.me/u/0/
+      icon: /assets/ico/protoncalendar.ico
 - name: Acadêmico
   icon: graduation-cap
   links:
     - title: arXiv math.IT
       link: https://arxiv.org/list/math.IT/recent
+      icon: /assets/ico/arxiv.ico
     - title: ResearchGate
       link: https://www.researchgate.net
+      icon: /assets/ico/researchgate.ico
     - title: Overleaf
       link: https://www.overleaf.com/project
+      icon: /assets/ico/overleaf.png
     - title: Lattes
       link: https://lattes.cnpq.br
 - name: Social
@@ -24,10 +29,13 @@
   links:
     - title: Mathstodon
       link: https://mathstodon.xyz
+      icon: /assets/ico/mastodon.ico
     - title: Twitter
       link: https://twitter.com
     - title: WhatsApp Web
       link: https://web.whatsapp.com
+    - title: Telegram Web
+      link: https://web.telegram.org
     - title: YouTube
       link: https://www.youtube.com
 - name: Notícias
@@ -35,10 +43,13 @@
   links:
     - title: Nexo
       link: https://www.nexojornal.com.br
+      icon: /assets/ico/nexo.png
     - title: Folha
       link: https://www.folha.uol.com.br
+      icon: /assets/ico/folha.ico
     - title: O Globo
       link: https://oglobo.globo.com
+      icon: /assets/ico/oglobo.webp
     - title: Estadão
       link: https://www.estadao.com.br
     - title: g1
@@ -50,8 +61,10 @@
   links:
     - title: Hacker News
       link: https://news.ycombinator.com
+      icon: /assets/ico/hn.ico
     - title: Ars Technica
       link: https://arstechnica.com
+      icon: /assets/ico/arstechnica.ico
     - title: OMG! Ubuntu
       link: http://www.omgubuntu.co.uk
     - title: OMG! Linux
@@ -63,7 +76,11 @@
   links:
     - title: HBO Max
       link: https://play.hbomax.com
+      icon: /assets/ico/hbomax.ico
     - title: Globoplay
       link: https://globoplay.globo.com
     - title: Letterboxd
       link: https://letterboxd.com
+      icon: /assets/ico/letterboxd.ico
+    - title: Dragon Ball Super
+      link: https://www.anitube.site/889412/
