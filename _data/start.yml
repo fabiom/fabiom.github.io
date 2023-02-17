@@ -24,6 +24,7 @@
       icon: /assets/ico/overleaf.png
     - title: Lattes
       link: https://lattes.cnpq.br
+      icon: /assets/ico/lattes.png
 - name: Social
   icon: users
   links:
@@ -34,6 +35,7 @@
       link: https://twitter.com
     - title: WhatsApp Web
       link: https://web.whatsapp.com
+      icon: /assets/ico/whatsapp.png
     - title: Telegram Web
       link: https://web.telegram.org
     - title: YouTube
