@@ -1,0 +1,23 @@
+- title: "CV Lattes"
+  href: "http://lattes.cnpq.br/5029099102514492"
+  icon: lattes.svg
+
+- title: ORCID
+  href: https://orcid.org/0000-0001-8323-1282
+  icon: orcid.svg
+
+- title: Google Scholar
+  href: https://scholar.google.com/citations?user=htGuJdwAAAAJ
+  icon: google-scholar.svg
+
+- title: ResearchGate
+  href: https://www.researchgate.net/profile/Fabio-C-C-Meneghetti
+  icon: researchgate.svg
+
+- title: Semantic Scholar
+  href: https://www.semanticscholar.org/author/-/2189376587
+  icon: semantic-scholar.svg
+
+- title: Mastodon
+  href: https://mathstodon.xyz/@fabiom
+  icon: mastodon.svg
