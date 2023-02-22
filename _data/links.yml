@@ -1,5 +1,5 @@
-- title: "CV Lattes"
-  href: "http://lattes.cnpq.br/5029099102514492"
+- title: CV Lattes
+  href: http://lattes.cnpq.br/5029099102514492
   icon: lattes.svg
 
 - title: ORCID
@@ -17,6 +17,10 @@
 - title: Semantic Scholar
   href: https://www.semanticscholar.org/author/-/2189376587
   icon: semantic-scholar.svg
+
+- title: Web of Science
+  href: https://www.webofscience.com/wos/author/record/HKW-8417-2023
+  icon: clarivate.svg
 
 - title: Mastodon
   href: https://mathstodon.xyz/@fabiom

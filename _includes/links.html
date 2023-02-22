@@ -1,5 +1,5 @@
 <ul id="links">
   {% for link in site.data.links %}
-    <li><a title='{{ link.title }}' href='{{ link.href }}' target="_blank" rel="noopener noreferrer">{% include svg/{{ link.icon }} %}</a></li>
+  <li><a alt='{{ link.title }}' title='{{ link.title }}' href='{{ link.href }}' target="_blank" rel="noopener noreferrer">{% include svg/{{ link.icon }} %}</a></li>
   {% endfor %}
 </ul>
