@@ -10,14 +10,17 @@ section: about
 
 ![A pixelated picture of me.](me.png "This was created using dithering."){:#me}
 
-Hey there! I am a grad student of Mathematics, currently investigating the geometry within information theory. Current themes of research:
+Hey there! I am a grad student of Mathematics, currently investigating the geometry within information theory.
+
+- [CV in English](/Fabio-Meneghetti-CV.pdf){:target="blank" rel="noopener noreferrer"}
+- [CV Lattes (in Portuguese)](http://lattes.cnpq.br/5029099102514492){:target="blank" rel="noopener noreferrer"}
+
+## Interests
 
 - Geometry of uniform vector quantization;
 - [Information geometry](/information-geometry) of statistical manifolds, with particular focus to discrete distributions;
 - Measures of information and divergence between probability distributions;
 - Lattices and applications to information sciences
-
-Following [MSC2020](https://mathscinet.ams.org/mathscinet/msc/msc2020.html), these are roughly translated {`94A17`, `53B12`, `94A15`}.
 
 ## Publications
 
