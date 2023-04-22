@@ -1,5 +1,5 @@
 @import "vars";
-@import "fonts";
+@import "fonts-sass";
 
 
 // Standard styles
@@ -89,7 +89,6 @@ svg {
 nav {
 
   display: block;
-  border-top: 4px solid var(--accent-color);
 
   ul {
       font-family: var(--font-sans);
@@ -127,6 +126,7 @@ nav {
   .active {
       border-bottom: 3px solid;
       padding-bottom: 11px;
+      color: var(--accent-color)
   }
 
   .theme-selector {
