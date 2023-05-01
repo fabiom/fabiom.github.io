@@ -2,7 +2,7 @@
 <div class="publication">
   <span class="publication-text"><a href="{{ publication.link }}">{{ publication.title }}</a></span>
   <span class="publication-text">{{ publication.authors }}</span>
-  <span class="publication-text">{{ publication.date}} — <i>{{ publication.identifier }}</i> — 
+  <span class="publication-text">{{ publication.date}} {% if publication.identifier %}— <i>{{ publication.identifier }}</i>{% endif %} — 
   {% if publication.doi %}
     <a class="pub-button doi" href="https://doi.org/{{ publication.doi }}">doi</a>
   {% endif %}
